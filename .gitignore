@@ -1,0 +1,11 @@
+# IntelliJ / WebStorm / IDE configs
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Optional (recommended)
+node_modules/
+dist/
+build/
+
